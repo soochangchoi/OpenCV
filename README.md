@@ -18,7 +18,7 @@ Flask API를 통해 웹에서 예측 서비스를 제공합니다.
 
 ## 🛠 사용 기술
 
-- Python 3.x
+- Python 3.9
 - OpenCV, numpy, pandas
 - scikit-learn
 - XGBoost
